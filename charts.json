@@ -1,0 +1,39 @@
+{
+  "distribuicaoPorAnormalidadeDeLeitura": "Exibe a distribuição de leituras agrupadas por tipo de anormalidade, mostrando o valor faturado (R$), a quantidade de leituras e o volume consumido (m³) para cada tipo de anormalidade registrado no período selecionado.",
+
+  "distribuicaoPorAnormalidadeDeConsumo": "Apresenta a distribuição de consumo segmentada por tipo de anormalidade, permitindo identificar quais anormalidades mais impactam o volume consumido e o número de ligações afetadas no período.",
+
+  "distribuicaoPorFaixaDeValorFaturado": "Mostra a concentração de imóveis por faixa de valor faturado, facilitando a análise do perfil de consumo e faturamento da base de clientes.",
+
+  "indiceDeFaturamento": "Exibe o índice de faturamento do período, calculado com base na relação entre o volume faturado e o volume produzido. Valores próximos a 100% indicam maior eficiência no faturamento.",
+
+  "indiceArrecadacao": "Apresenta o índice de arrecadação, representando a proporção do valor faturado que foi efetivamente recebido. Útil para monitorar a inadimplência e a eficiência da cobrança.",
+
+  "arrecadacaoLiquida": "Exibe a arrecadação líquida acumulada no período, descontando estornos e cancelamentos. Permite comparar a arrecadação entre períodos e acompanhar a evolução mensal.",
+
+  "arrecadacaoPrevistaPorDia": "Mostra a projeção de arrecadação diária com base no histórico de recebimentos, auxiliando no planejamento financeiro e na identificação de dias com maior volume de pagamentos.",
+
+  "arrecadacaoAcumuladaPrevistaPorDia": "Apresenta a arrecadação acumulada no mês comparada com a projeção prevista, permitindo acompanhar se o desempenho real está acima ou abaixo da expectativa.",
+
+  "faturamentoPorReferencia": "Exibe o faturamento total agrupado por competência de referência, possibilitando a comparação entre diferentes períodos e a identificação de tendências de crescimento ou queda.",
+
+  "faturamentoPorSubcategoria": "Mostra o faturamento segmentado por subcategoria de ligação (residencial, comercial, industrial, etc.), auxiliando na análise da composição da receita por tipo de cliente.",
+
+  "faturamentoPorSituacaoDeAguaEsgoto": "Apresenta o faturamento dividido entre as situações de água e esgoto (ativo, inativo, cortado, etc.), permitindo identificar o peso de cada situação na receita total.",
+
+  "faturamentoPorServico": "Exibe o faturamento detalhado por tipo de serviço cobrado, como consumo, taxa mínima, esgoto e outros serviços adicionais.",
+
+  "contasRetificadasPorMotivo": "Mostra a quantidade e o valor das contas retificadas agrupadas por motivo de retificação, auxiliando na identificação dos principais erros de faturamento.",
+
+  "contasEmRevisaoPorMotivo": "Apresenta as contas em processo de revisão classificadas por motivo, permitindo acompanhar o volume de revisões pendentes e seus impactos no faturamento.",
+
+  "contasCanceladasPorMotivo": "Exibe as contas canceladas no período segmentadas por motivo de cancelamento, útil para auditorias e controle de qualidade do faturamento.",
+
+  "indiceDeHidromentracao": "Apresenta o índice de hidrometração da base, calculado pela proporção de ligações ativas com hidrômetro instalado. Quanto maior o índice, mais preciso é o faturamento.",
+
+  "imoveisCadastradosPorSituacaoAgua": "Mostra a distribuição dos imóveis cadastrados conforme a situação da ligação de água (ativo, cortado, suprimido, etc.), dando uma visão geral da base de clientes.",
+
+  "imoveisCadastradosPorSituacaoEsgoto": "Exibe a distribuição dos imóveis cadastrados conforme a situação da ligação de esgoto, permitindo acompanhar a cobertura do serviço de esgotamento sanitário.",
+
+  "acoesDeCobrancaPagamentos": "Apresenta o resultado das ações de cobrança, relacionando os pagamentos realizados após cada tipo de ação (notificação, corte, aviso, etc.)."
+}
